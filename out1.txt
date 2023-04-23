@@ -1,0 +1,89 @@
+{'Model': 'LGBMRegressor', 'R-Squared': -0.5640334048980764, 'Adjusted R-Squared': 1.2727805850786305, 'RMSE': 1698.7818846364667, 'Time taken': 1.5000004768371582}
+                                Adjusted R-Squared              R-Squared  \
+Model                                                                       
+SGDRegressor                  19100031885145932.00 -109513248145484976.00   
+LinearRegression                             22.73                -123.57   
+TransformedTargetRegressor                   22.73                -123.57   
+KernelRidge                                  12.52                 -65.06   
+Ridge                                        12.11                 -62.71   
+Lasso                                         5.26                 -23.40   
+RidgeCV                                       2.83                  -9.49   
+Lars                                          2.45                  -7.30   
+ExtraTreeRegressor                            1.57                  -2.27   
+AdaBoostRegressor                             1.52                  -1.96   
+XGBRegressor                                  1.41                  -1.38   
+ExtraTreesRegressor                           1.40                  -1.30   
+HistGradientBoostingRegressor                 1.29                  -0.66   
+OrthogonalMatchingPursuit                     1.29                  -0.65   
+PoissonRegressor                              1.29                  -0.64   
+DecisionTreeRegressor                         1.29                  -0.64   
+OrthogonalMatchingPursuitCV                   1.28                  -0.59   
+GaussianProcessRegressor                      1.28                  -0.59   
+KNeighborsRegressor                           1.27                  -0.57   
+LGBMRegressor                                 1.27                  -0.56   
+HuberRegressor                                1.27                  -0.55   
+GradientBoostingRegressor                     1.25                  -0.45   
+LassoLars                                     1.23                  -0.33   
+LassoCV                                       1.23                  -0.29   
+PassiveAggressiveRegressor                    1.22                  -0.28   
+BaggingRegressor                              1.22                  -0.27   
+LassoLarsCV                                   1.22                  -0.27   
+RandomForestRegressor                         1.22                  -0.25   
+LinearSVR                                     1.21                  -0.19   
+MLPRegressor                                  1.20                  -0.16   
+DummyRegressor                                1.19                  -0.11   
+ElasticNet                                    1.19                  -0.11   
+LarsCV                                        1.18                  -0.04   
+QuantileRegressor                             1.18                  -0.03   
+SVR                                           1.18                  -0.03   
+NuSVR                                         1.18                  -0.02   
+TweedieRegressor                              1.16                   0.08   
+ElasticNetCV                                  1.15                   0.12   
+BayesianRidge                                 1.15                   0.16   
+GammaRegressor                                1.12                   0.33   
+
+                                         RMSE  Time Taken  
+Model                                                      
+SGDRegressor                  449518882038.45        0.12  
+LinearRegression                     15160.67        0.73  
+TransformedTargetRegressor           15160.67        0.76  
+KernelRidge                          11040.38        0.11  
+Ridge                                10842.56        0.11  
+Lasso                                 6710.26        0.73  
+RidgeCV                               4399.68        0.31  
+Lars                                  3913.70        0.59  
+ExtraTreeRegressor                    2457.67        0.32  
+AdaBoostRegressor                     2337.53        3.80  
+XGBRegressor                          2094.72        1.88  
+ExtraTreesRegressor                   2058.03       22.98  
+HistGradientBoostingRegressor         1748.28       22.76  
+OrthogonalMatchingPursuit             1745.33        0.15  
+PoissonRegressor                      1742.17        0.15  
+DecisionTreeRegressor                 1739.54        1.81  
+OrthogonalMatchingPursuitCV           1711.11        0.49  
+GaussianProcessRegressor              1710.49        1.22  
+KNeighborsRegressor                   1700.96        0.09  
+LGBMRegressor                         1698.78        1.50  
+HuberRegressor                        1689.19        0.89  
+GradientBoostingRegressor             1636.93       10.04  
+LassoLars                             1567.93        0.19  
+LassoCV                               1545.78      114.21  
+PassiveAggressiveRegressor            1539.56        0.22  
+BaggingRegressor                      1533.72        7.12  
+LassoLarsCV                           1528.50       10.93  
+RandomForestRegressor                 1520.01       63.34  
+LinearSVR                             1481.07        0.18  
+MLPRegressor                          1460.06        8.10  
+DummyRegressor                        1432.16        0.08  
+ElasticNet                            1431.48        0.80  
+LarsCV                                1387.52        9.46  
+QuantileRegressor                     1381.57       32.07  
+SVR                                   1381.31        0.51  
+NuSVR                                 1369.23        0.35  
+TweedieRegressor                      1302.30        0.15  
+ElasticNetCV                          1271.99       75.71  
+BayesianRidge                         1248.00        1.05  
+GammaRegressor                        1113.89        0.12  
+
+
+{'Model': 'GammaRegressor', 'R-Squared': 0.17764687895336284, 'Adjusted R-Squared': 1.5918809567187253, 'RMSE': 6292.733365733167, 'Time taken': 0.9345154762268066}
