@@ -85,5 +85,7 @@ ElasticNetCV                          1271.99       75.71
 BayesianRidge                         1248.00        1.05  
 GammaRegressor                        1113.89        0.12  
 
+//1000^
 
 {'Model': 'GammaRegressor', 'R-Squared': 0.17764687895336284, 'Adjusted R-Squared': 1.5918809567187253, 'RMSE': 6292.733365733167, 'Time taken': 0.9345154762268066}
+//5000^
